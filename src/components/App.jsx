@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import { useState } from 'react';
 import { FeedbackOptions } from './FeedbackOptions';
 import { Statistics } from './Statistics';
